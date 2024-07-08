@@ -1,0 +1,14 @@
+:root {
+  /*COLORS*/
+  --background: #222831;
+  --accent-color: #00adb5;
+  --button-color: rgba(57, 62, 70, 0.75);
+
+  /*TEXT*/
+  --text-color: rgba(238, 238, 238, 0.75);
+  --text-size: 18px;
+  --text-light: #eeeeee;
+
+  /*BORDERS*/
+  --border: 1px solid rgba(238, 238, 238, 0.1);
+}

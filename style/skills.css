@@ -1,0 +1,39 @@
+
+.skills__box{
+
+}
+
+.skills__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.skills__item {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 80px;
+}
+.skills__item img {
+  margin: 0 auto;
+}
+
+.subsection {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 5px 0;
+}
+.subsection p {
+  width: 220px;
+  font-size: 20px;
+  color: var(--text-light)
+}
+.icon {
+    font-size: 20px;
+  color: var(--accent-color);
+}
+.skills__item span {
+font-size: 12px;
+margin-top: 5px;
+  }
