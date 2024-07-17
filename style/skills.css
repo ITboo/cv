@@ -1,8 +1,10 @@
-
-.skills__box{
-
+.skills{
+  padding-top: 90px;
 }
-
+.skills__list{
+  width: fit-content;
+  margin: 0 auto;
+}
 .skills__wrapper {
   display: flex;
   flex-wrap: wrap;
