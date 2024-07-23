@@ -38,8 +38,10 @@
 }
 
 @media (max-width: 500px) {
+  .header__logo{
+    display: none;
+  }
   .header__container {
-    flex-direction: column;
     padding: 10px 0;
     gap: 10px;
   }
