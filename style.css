@@ -10,6 +10,10 @@
 @import url("./style/contacts.css");
 @import url("./style/footer.css");
 
+*{
+  box-sizing: border-box;
+}
+
 html {
   scroll-behavior: smooth;
   scrollbar-color: var(--accent-color) var(--background);
