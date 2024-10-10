@@ -1,0 +1,42 @@
+{
+    "nav": {
+      "about": "About",
+      "skills": "Skills",
+      "projects": "Projects",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Sarah Thompson",
+      "subtitle": "Frontend Developer & Web Enthusiast",
+      "downloadCV": "Download CV",
+      "contactMe": "Contact Me"
+    },
+    "about": {
+      "title": "About Me",
+      "content": "Hi there! I'm Sarah, a passionate frontend developer with 5 years of experience crafting beautiful, functional websites. I love the perfect blend of creativity and logic that frontend development offers. My toolkit includes HTML5, CSS3, JavaScript, and React, but I'm always excited to learn new technologies. I'm dedicated to creating accessible, responsive, and user-friendly interfaces that make a difference. When I'm not coding, you can find me exploring the latest web design trends, contributing to open-source projects, or sharing my knowledge through blog posts and local meetups."
+    },
+    "skills": {
+      "title": "Skills"
+    },
+    "projects": {
+      "title": "Projects",
+      "ecommerce": {
+        "title": "E-commerce Platform",
+        "description": "A full-featured online store built with Next.js and Stripe integration."
+      },
+      "taskManager": {
+        "title": "Task Management App",
+        "description": "A React-based productivity tool with drag-and-drop functionality."
+      },
+      "demo": "Demo",
+      "github": "GitHub"
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "copyToClipboard": "Click to copy",
+      "copied": "Copied!"
+    },
+    "footer": {
+      "rights": "All rights reserved."
+    }
+  }

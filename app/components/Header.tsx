@@ -1,7 +1,10 @@
 import Link from 'next/link'
 import React from 'react'
+import { useTranslations } from 'next-intl'
+import LanguageSwitch from './LanguageSwitch'
 
 const Header = () => {
+  const t = useTranslations('nav')
   return (
     <header className="sticky top-0 z-10 backdrop-blur-sm bg-white/75 dark:bg-gray-950/75 border-b">
         <nav className="container mx-auto px-4 py-4 flex justify-between items-center">
@@ -11,27 +14,28 @@ const Header = () => {
               href="#about"
               className="hover:text-primary transition-colors"
             >
-              About
+              {t('about')}
             </Link>
             <Link
               href="#skills"
               className="hover:text-primary transition-colors"
             >
-              Skills
+              {t('skills')}
             </Link>
             <Link
               href="#projects"
               className="hover:text-primary transition-colors"
             >
-              Projects
+              {t('projects')}
             </Link>
             <Link
               href="#contact"
               className="hover:text-primary transition-colors"
             >
-              Contact
+              {t('contact')}
             </Link>
           </div>
+          <LanguageSwitch />
         </nav>
       </header>
   )

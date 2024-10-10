@@ -1,0 +1,42 @@
+{
+    "nav": {
+      "about": "Обо мне",
+      "skills": "Навыки",
+      "projects": "Проекты",
+      "contact": "Контакты"
+    },
+    "hero": {
+      "title": "Анна Парфенова",
+      "subtitle": "Frontend developer",
+      "downloadCV": "Скачать CV",
+      "contactMe": "Связаться"
+    },
+    "about": {
+      "title": "Обо мне",
+      "content": "Ку"
+    },
+    "skills": {
+      "title": "Навыки"
+    },
+    "projects": {
+      "title": "Проекты",
+      "ecommerce": {
+        "title": "тукс",
+        "description": "Una tienda en línea completa construida con Next.js e integración de Stripe."
+      },
+      "taskManager": {
+        "title": "сссс",
+        "description": "Una herramienta de productividad basada en React con funcionalidad de arrastrar y soltar."
+      },
+      "demo": "Demo",
+      "github": "GitHub"
+    },
+    "contact": {
+      "title": "Контакты",
+      "copyToClipboard": "Скопировать",
+      "copied": "Скопировано!"
+    },
+    "footer": {
+      "rights": "ооо"
+    }
+  }
