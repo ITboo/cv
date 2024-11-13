@@ -14,7 +14,7 @@ const Projects = () => {
             code: "",
             description:
               "Development and support of a multi-page website for the production and sale of wooden structures (canopies, gazebos, pergolas, etc.). Implemented adaptive cross-browser layout based on the provided design, animation, filtering functionality and an order form.",
-            image: "/img/works/items/laspergolas.jpg",
+            image: "./img/works/items/laspergolas.jpg",
             stack: "HTML, CSS, JavaScript",
           },
           {
@@ -23,7 +23,7 @@ const Projects = () => {
             code: "",
             description:
               "Two-page landing page. The site has a slider, modals with additional information, and a filter.",
-            image: "/img/works/items/coffee-house.jpg",
+            image: "./img/works/items/coffee-house.jpg",
             stack: "HTML, CSS, JavaScript",
           },
           {
@@ -32,7 +32,7 @@ const Projects = () => {
             code: "",
             description:
               "Food delivery app. Implemented auth, adding different quantities of goods to the cart, and calculating the order amount.",
-            image: "/img/works/items/pizza.jpg",
+            image: "./img/works/items/pizza.jpg",
             stack: "React, Redux Toolkit, React Router, axios, Vite",
           },
           {
@@ -41,7 +41,7 @@ const Projects = () => {
             code: "",
             description:
               "Job-listing project written with Vue. It uses json-file as a local database and CRUD operations are implemented.",
-            image: "/img/works/items/vue-job.jpg",
+            image: "./img/works/items/vue-job.jpg",
             stack: "Vue, Vue Router, axios, Vuetify",
           },
           {
@@ -50,7 +50,7 @@ const Projects = () => {
             code: "",
             description:
               "An analogue of the Momentum application from the Chrome store. Audio player, slider, date and time widgets, weather and quotes of the day. Some data stored in local storage. Customization. Wallpapers are selected randomly from project files or by connecting to a third-party API.",
-            image: "/img/works/items/meowmentum.jpg",
+            image: "./img/works/items/meowmentum.jpg",
             stack: "HTML, CSS, JavaScript",
           },
           {
@@ -59,7 +59,7 @@ const Projects = () => {
             code: "",
             description:
               "Two-page landing page. The site has a slider, modals with additional information, and pagination.",
-            image: "/img/works/items/shelter.jpg",
+            image: "./img/works/items/shelter.jpg",
             stack: "HTML, CSS, JavaScript",
           },
         ].map((project, index) => (

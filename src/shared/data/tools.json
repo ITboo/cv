@@ -2,48 +2,48 @@
     {
         "group": "VSC & VSC Hosting",
         "skills": [
-          { "title": "Git", "img": "/img/skills/git.png" },
-          { "title": "GitHub", "img": "/img/skills/github.png" }
+          { "title": "Git", "img": "./img/skills/git.png" },
+          { "title": "GitHub", "img": "./img/skills/github.png" }
         ]
       },
       {
         "group": "Package managers",
         "skills": [
-          { "title": "npm", "img": "/img/skills/npm.png" },
-          { "title": "yarn", "img": "/img/skills/yarn.svg" }
+          { "title": "npm", "img": "./img/skills/npm.png" },
+          { "title": "yarn", "img": "./img/skills/yarn.svg" }
         ]
       },
       {
         "group": "Module bundlers",
         "skills": [
-          { "title": "Vite", "img": "/img/skills/vite.svg" },
-          { "title": "Webpack", "img": "/img/skills/webpack.png" }
+          { "title": "Vite", "img": "./img/skills/vite.svg" },
+          { "title": "Webpack", "img": "./img/skills/webpack.png" }
         ]
       },
       {
         "group": "Code quality",
         "skills": [
-          { "title": "ESLint", "img": "/img/skills/eslint.png" },
-          { "title": "Prettier", "img": "/img/skills/prettier.png" },
-          { "title": "Husky", "img": "/img/skills/husky.png" },
-          { "title": "Stylelint", "img": "/img/skills/stylelint.svg" },
-          { "title": "Commitlint", "img": "/img/skills/commitlint.png" }
+          { "title": "ESLint", "img": "./img/skills/eslint.png" },
+          { "title": "Prettier", "img": "./img/skills/prettier.png" },
+          { "title": "Husky", "img": "./img/skills/husky.png" },
+          { "title": "Stylelint", "img": "./img/skills/stylelint.svg" },
+          { "title": "Commitlint", "img": "./img/skills/commitlint.png" }
         ]
       },
       {
         "group": "Testing",
         "skills": [
-          { "title": "Jest", "img": "/img/skills/jest.svg" },
-          { "title": "Storybook", "img": "/img/skills/storybook.png" },
-          { "title": "Puppeteer", "img": "/img/skills/puppeteer.png" },
-          { "title": "Postman", "img": "/img/skills/postman-icon.svg" }
+          { "title": "Jest", "img": "./img/skills/jest.svg" },
+          { "title": "Storybook", "img": "./img/skills/storybook.png" },
+          { "title": "Puppeteer", "img": "./img/skills/puppeteer.png" },
+          { "title": "Postman", "img": "./img/skills/postman-icon.svg" }
         ]
       },
       {
         "group": "Design",
        "skills": [
-          { "title": "Figma", "img": "/img/skills/figma.png" },
-          { "title": "Photoshop", "img": "/img/skills/ps.png" }
+          { "title": "Figma", "img": "./img/skills/figma.png" },
+          { "title": "Photoshop", "img": "./img/skills/ps.png" }
         ]
       }
 ]

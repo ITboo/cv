@@ -1,6 +1,5 @@
 import { Check, Copy, Github, Linkedin, Mail, MessageCircle } from 'lucide-react'
 
-import { Button } from '@radix-ui/themes'
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from '@radix-ui/react-tooltip'
 import { useState } from 'react'
 

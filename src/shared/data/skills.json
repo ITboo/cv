@@ -2,48 +2,48 @@
     {
       "group": "General",
       "skills": [
-        { "title": "JavaScript", "img": "/img/skills/javascript.svg" },
-        { "title": "TypeScript", "img": "/img/skills/typescript.svg" },
-        { "title": "HTML", "img": "/img/skills/html.svg" },
-        { "title": "CSS", "img": "/img/skills/css.png" },
-        { "title": "Dev Tools", "img": "/img/skills/devtools.svg" }
+        { "title": "JavaScript", "img": "./img/skills/javascript.svg" },
+        { "title": "TypeScript", "img": "./img/skills/typescript.svg" },
+        { "title": "HTML", "img": "./img/skills/html.svg" },
+        { "title": "CSS", "img": "./img/skills/css.png" },
+        { "title": "Dev Tools", "img": "./img/skills/devtools.svg" }
       ]
     },
     {
       "group": "Frameworks / Libs",
       "skills": [
-        { "title": "React", "img": "/img/skills/react.png" },
-        { "title": "Next.js", "img": "/img/skills/next.png" },
-        { "title": "Vue.js", "img": "/img/skills/vue.svg" },
-        { "title": "Shadcn", "img": "/img/skills/shadcn.png" },
-        { "title": "Alpine.js", "img": "/img/skills/alpine.png" },
-        { "title": "Astro", "img": "/img/skills/astro.png" },
-        { "title": "grammY", "img": "/img/skills/grammy.svg" }
+        { "title": "React", "img": "./img/skills/react.png" },
+        { "title": "Next.js", "img": "./img/skills/next.png" },
+        { "title": "Vue.js", "img": "./img/skills/vue.svg" },
+        { "title": "Shadcn", "img": "./img/skills/shadcn.png" },
+        { "title": "Alpine.js", "img": "./img/skills/alpine.png" },
+        { "title": "Astro", "img": "./img/skills/astro.png" },
+        { "title": "grammY", "img": "./img/skills/grammy.svg" }
       ]
     },
     {
       "group": "State management",
       "skills": [
-        { "title": "Redux/RTK", "img": "/img/skills/redux.png" },
-        { "title": "Zustand", "img": "/img/skills/zustand.jfif" },
-        { "title": "Effector", "img": "/img/skills/effector.png" }
+        { "title": "Redux/RTK", "img": "./img/skills/redux.png" },
+        { "title": "Zustand", "img": "./img/skills/zustand.jfif" },
+        { "title": "Effector", "img": "./img/skills/effector.png" }
       ]
     },
     {
       "group": "Styling",
       "skills": [
-        { "title": "Sass", "img": "/img/skills/sass.png" },
-        { "title": "Tailwind CSS", "img": "/img/skills/tailwind.png" },
-        { "title": "CSS Modules", "img": "/img/skills/modules.png" },
-        { "title": "Styled components", "img": "/img/skills/sc.png" }
+        { "title": "Sass", "img": "./img/skills/sass.png" },
+        { "title": "Tailwind CSS", "img": "./img/skills/tailwind.png" },
+        { "title": "CSS Modules", "img": "./img/skills/modules.png" },
+        { "title": "Styled components", "img": "./img/skills/sc.png" }
       ]
     },
     {
       "group": "Backend",
       "skills": [
-        { "title": "NodeJS", "img": "/img/skills/nodejs.png" },
-        { "title": "express.js", "img": "/img/skills/express.png" },
-        { "title": "PHP (basics)", "img": "/img/skills/php.png" }
+        { "title": "NodeJS", "img": "./img/skills/nodejs.png" },
+        { "title": "express.js", "img": "./img/skills/express.png" },
+        { "title": "PHP (basics)", "img": "./img/skills/php.png" }
       ]
     }    
   ]

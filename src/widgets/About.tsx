@@ -2,17 +2,17 @@ const About = () => {
   const langs = [
     {
       lang: "Russian",
-      img: "/img/rus.png",
+      img: "./img/rus.png",
       level: "Native",
     },
     {
       lang: "English",
-      img: "/img/uk-flag.avif",
+      img: "./img/uk-flag.avif",
       level: "Intermediate (B1)",
     },
     {
       lang: "Korean",
-      img: "/img/kor.jpg",
+      img: "./img/kor.jpg",
       level: "Basic (A1)",
     },
   ];
