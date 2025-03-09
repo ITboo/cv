@@ -6,6 +6,7 @@ import Skills from '../../src/widgets/Skills'
 import Projects from '../../src/widgets/Projects'
 import Contacts from '../../src/widgets/Contacts'
 import { Theme } from "@radix-ui/themes";
+import Timeline from '../widgets/Timeline'
 export default function App() {
   return (
     <Theme>
@@ -16,6 +17,7 @@ export default function App() {
         <About />
         <Skills />
         <Projects />
+        <Timeline/>
         <Contacts />
       </main>
       <Footer />
